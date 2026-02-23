@@ -1,6 +1,8 @@
 Round 1
-paper
+paper -> winner: sim
 Round 2
-rock
+Paper -> winner: me
 Round 3
-scissors
+scissors -> winner: sim
+
+overall winner: sim
